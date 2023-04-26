@@ -2,7 +2,7 @@
 
 <h2>DDD is a software development approach that focuses on modeling the problem domain and building the software system around that model, to create more effective and maintainable software.</h2>
 
-<img src="https://github.com/kavaan/ddd/blob/main/ddd%20(2).png"/>
+<img src="https://github.com/kavaan/ddd/blob/main/ddd%20(3).png"/>
 
 <h3>Examples of high-star DDD projects in github:</h3>
 
