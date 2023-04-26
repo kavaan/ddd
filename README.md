@@ -23,11 +23,12 @@
 <a href="https://github.com/CodelyTV/php-ddd-example">php-ddd-example</a><br/>
 <a href="https://github.com/jorge07/ddd-playground">ddd-playground</a>
 
-Read more:
+<h2>Read more:</h2>
 <h3>Text:</h3>
 <a href="https://martinfowler.com/bliki/DomainDrivenDesign.html">Domain Driven Design (martin fowler)</a><br/>
 <a href="https://www.geeksforgeeks.org/domain-driven-design-ddd">domain-driven-design-ddd (geeksforgeeks)</a>
-
+<h3>Video:</h3>
+<a href="https://www.youtube.com/watch?v=pMuiVlnGqjk"Youtube></a>
 <h5><a href="https://github.com/kavaan
 Medium: https://medium.com/@KeivanDamirchi">My Linkedin</a></h5>
 <h5><a href="https://medium.com/@KeivanDamirchi">My Medium</a></h5>
